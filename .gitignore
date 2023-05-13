@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+UrbanSound8K/audio/
+UrbanSound8K/Audio Test/
+UrbanSound8K/metadata/
+UrbanSound8K/audiosignal.png
+UrbanSound8K/UrbanSound8K_README.txt
+
+
 # Distribution / packaging
 .Python
 build/
